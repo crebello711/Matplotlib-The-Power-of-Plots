@@ -16,3 +16,11 @@ The executive team has tasked you with generating all of the tables and figures 
 2.The line graph depicts an important observation where the volume/growth of tumor decreases when the mice is treated with Capomulin for a certain time point
 
 3.There is a strong corelation between the mouse weight and the tumor grouwth.As weight increases the tumor volume increases
+
+## Resources
+
+* [Matplotlib Documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html)
+
+* [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html)
+
+* [Grepper](https://www.codegrepper.com/index.php)
