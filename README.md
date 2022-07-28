@@ -7,5 +7,5 @@ The executive team has tasked you with generating all of the tables and figures 
 
 ## Output File:
 
-* See the [starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for help on what modules to import and study results.
+* See the [starter workbook](pymaceuticals_starter.ipynb) for help on what modules to import and study results.
 
