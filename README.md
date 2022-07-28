@@ -9,3 +9,10 @@ The executive team has tasked you with generating all of the tables and figures 
 
 * See the [starter workbook](pymaceuticals_starter.ipynb) for help on what modules to import and study results.
 
+## Important Observations and Insights 
+
+### 1.The bar graph shows that Capomulin(N=230) drug treatment is highly used on mice with Ramicane(N=228) being the second widely used for treating mice.
+
+### 2.The line graph depicts an important observation where the volume/growth of tumor decreases when the mice is treated with Capomulin for a certain time point
+
+### 3.There is a strong corelation between the mouse weight and the tumor grouwth.As weight increases the tumor volume increases
